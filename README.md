@@ -10,4 +10,5 @@
 
 | Read|      link     | 
 |----------|:-------------:|
-| read 01 |  [Link text Here](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2001.md) | 
+| read 01 |  [Exception Handling](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2001.md) 
+| read 02 |  [Link text Here]()
