@@ -33,4 +33,4 @@ Relational databases are a powerful tool for organizing and managing structured 
 
 In conclusion, relational databases and SQL are essential tools  for managing structured data efficiently. They offer a flexible, secure, and standardized approach to store, retrieve, and manipulate data. Understanding the concepts and principles behind relational databases and SQL empowers individuals to build robust and scalable database solutions for various applications.
 
-![ed](Assets/Screenshot%202023-06-17%20045439.jpg)
+
