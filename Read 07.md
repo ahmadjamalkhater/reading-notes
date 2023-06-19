@@ -1,7 +1,7 @@
 
-Title: File and Stream I/O in .NET: A Comprehensive Overview
+# Title: File and Stream I/O in .NET: A Comprehensive Overview
 
-Introduction:
+## Introduction:
 This article provides a comprehensive overview of file and stream input/output (I/O) operations in the .NET environment. It explains the benefits and various use cases of I/O operations, and explores the classes and functions available in the System.IO namespaces for handling files, streams, and specific data types.
 
 Key Points:
