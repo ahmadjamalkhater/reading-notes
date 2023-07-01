@@ -18,5 +18,5 @@
 | read 06 |  [Data Structures and Algorithms](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2006.md)
 | read 07 |  [File and Stream I/O ]()
 | read 08 |  [data-structures-and-algorithms. ](https://github.com/ahmadjamalkhater/data-structures-and-algorithms.)
-| read 11 |  [oop ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2011.md)| read 11 |  [oop ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2011.md)
-| read 12 |  [Data Structures and Algorithms ]()
+| read 11 |  [oop ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2011.md)
+| read 12 |  [Data Structures and Algorithms ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2012.md)
