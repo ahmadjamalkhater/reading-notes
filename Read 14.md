@@ -16,4 +16,4 @@ Interfaces are contracts that allow us to specify certain expectations that othe
 Interfaces are designed to separate how we use something from how it is implemented. They allow us to write code that can work with different implementations of some set of responsibilities without having to handle each implementation specifically.
 Interfaces are always implemented by more than one class, as they are meant to solve a problem of interaction with objects based on what they do, not how they do it.
 Interfaces are commonly used in unit testing and dependency injection to decouple classes and make them easier to test. However, using interfaces solely for these purposes can lead to interface abuse and unnecessary complexity.
-In summary, interfaces define a contract that a class or struct must adhere to. They allow us to separate the use of an object from its implementation and enable behavior to be shared among multiple types.
+## In summary, interfaces define a contract that a class or struct must adhere to. They allow us to separate the use of an object from its implementation and enable behavior to be shared among multiple types.
