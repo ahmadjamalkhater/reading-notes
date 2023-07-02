@@ -20,4 +20,4 @@
 | read 08 |  [data-structures-and-algorithms. ](https://github.com/ahmadjamalkhater/data-structures-and-algorithms.)
 | read 11 |  [oop ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2011.md)
 | read 12 |  [Data Structures and Algorithms ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2012.md)
-| read 13 |  [Stacks and Queues ]()
+| read 13 |  [Stacks and Queues ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2013.md)
