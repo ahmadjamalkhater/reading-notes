@@ -23,3 +23,4 @@
 | read 13 |  [Stacks and Queues ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2013.md)
 | read 14 |  [interfaces ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2014.md)
 | read 15 |  [Collections and Enums ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2015.md)
+| read 16|  [LINQ (Language Integrated Query)]()
