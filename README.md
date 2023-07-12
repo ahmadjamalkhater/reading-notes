@@ -24,3 +24,4 @@
 | read 14 |  [interfaces ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2014.md)
 | read 15 |  [Collections and Enums ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2015.md)
 | read 16|  [LINQ (Language Integrated Query)](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2016.md)
+| read 17|  [Databases and ERDs]()
