@@ -25,5 +25,5 @@
 | read 15 |  [Collections and Enums ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2015.md)
 | read 16|  [LINQ (Language Integrated Query)](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2016.md)
 | read 17|  [Databases and ERDs](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2017.md)| read 07 |  [File and Stream I/O ]()
-| read 18 |  [Entity Framework (EF) ]()
+| read 18 |  [Entity Framework (EF) ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2018.md)
 
