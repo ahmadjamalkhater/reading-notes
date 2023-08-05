@@ -8,3 +8,7 @@ It is typically configured with a SQL Server database to store user information,
 To enable Identity, you need to configure the services in the application's Program.cs file.
 The article explains how to create a web app with authentication using ASP.NET Core Identity, including steps like applying migrations and testing the registration and login functionalities.
 The article also touches on the differences between ASP.NET Core Identity and the Microsoft identity platform (Azure Active Directory).
+## Things I want to know more about:
+
+How does ASP.NET Core Identity handle password hashing and security?
+How can I customize the UI and behavior of ASP.NET Core Identity for my specific 
