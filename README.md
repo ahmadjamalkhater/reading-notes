@@ -31,3 +31,4 @@
 | read 21 |  [Tree](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2021.md)
 | read 22 |  [Data Transfer Objects (DTOs)](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2022.md)
 | read 23 |  [Testing and Swagger and Deployment ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2023.md)
+| read 24 |  ["Introduction to Identity" ]()
