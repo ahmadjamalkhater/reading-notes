@@ -33,3 +33,4 @@
 | read 23 |  [Testing and Swagger and Deployment ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2023.md)
 | read 24 |  ["Introduction to Identity" ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2024.md)
 | read 25 |  [Azure Dev Ops , MVC Basics ,Tag Helpers , Bootstrap ,tutorial Bootstrap](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2026.md)
+| read 26 |  [Benefits of Using Views ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2027md)
