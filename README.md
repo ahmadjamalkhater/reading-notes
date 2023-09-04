@@ -34,3 +34,4 @@
 | read 24 |  ["Introduction to Identity" ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2024.md)
 | read 25 |  [Azure Dev Ops , MVC Basics ,Tag Helpers , Bootstrap ,tutorial Bootstrap](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2026.md)
 | read 26 |  [Benefits of Using Views ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2027md)
+| read 27 |  [cookes ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2028.md)
