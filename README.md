@@ -35,3 +35,5 @@
 | read 25 |  [Azure Dev Ops , MVC Basics ,Tag Helpers , Bootstrap ,tutorial Bootstrap](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2026.md)
 | read 26 |  [Benefits of Using Views ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2027md)
 | read 27 |  [cookes ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2028.md)
+| read 28 |  [Blob StorageBlob Storage ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2029.md)
+| read 29 |  [Hash Tables ]()
