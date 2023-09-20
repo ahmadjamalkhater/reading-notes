@@ -39,4 +39,4 @@
 | read 29 |  [Hash Tables ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2030.md)
 | read 30 |  [Razor Pages ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2031.md)
 | read 31|  [Introduction to View Components ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2032.md)
-| read 32 |  [SendGrid with .NET Integration]()
+| read 32 |  [SendGrid with .NET Integration](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2033.md)
