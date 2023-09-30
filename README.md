@@ -42,3 +42,4 @@
 | read 32 |  [SendGrid with .NET Integration](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2033.md)
 | read 33 |  [Technical Documentation and Credit Card Processing ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2034.md)
 | read 34|  [Graphs ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2035.md)
+| read 35 |  [JAM Stack ]()
