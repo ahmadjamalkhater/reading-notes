@@ -43,5 +43,5 @@
 | read 33 |  [Technical Documentation and Credit Card Processing ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2034.md)
 | read 34|  [Graphs ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2035.md)
 | read 35 |  [JAM Stack ](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2036%20.md)
-| read 36 |  [React]()
-| read 37 |  []()
+| read 36 |  [React](https://github.com/ahmadjamalkhater/reading-notes/blob/main/Read%2037.md)
+| read 37 |  [React Overview]()
